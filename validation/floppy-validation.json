@@ -1,0 +1,13 @@
+{
+  "image_sha256": "b09346adf146315631dadeefc5bb18031d8e9b64ec526564ed3b3e86c8cb342d",
+  "bytes": 419284,
+  "tool_id": 246,
+  "volume_uid_suffix": "D607",
+  "executable_sha256": "c7b9bb7e4cc3e4c60383decaca8bb056e27405c04a1f252872bd075c0bd3596a",
+  "executable_bytes": 10752,
+  "native_source_matches": true,
+  "executable_unmodified_after_native_link": true,
+  "native_sony_tags_preserved": 800,
+  "filer_tool_label_valid": true,
+  "unique_icon_states": 3
+}

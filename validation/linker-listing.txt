@@ -1,0 +1,30 @@
+Reading file: M.OBJ
+Reading file: G.OBJ
+Reading file: J.OBJ
+Reading file: D.OBJ
+Reading file: I.OBJ
+Reading file: IOSPASLIB.OBJ
+Reading file: SYS1LIB.OBJ
+Reading file: PRLIB.OBJ
+Input summary:   
+       8 Files     , max =   100
+      35 Segments  , max =  4096
+     271 Modules   , max = 32768
+     276 Entries   , max = 65536
+     544 Ref. Lists, max = 65536
+    1238 References, max = 65536
+Linking Main Program.
+Reading Library Directory: -#12-INTRINSIC.LIB
+Global area: MSGLOBAL at $000016D6
+Global area: MSDIALOG at $00005A0A
+Active: 59 of 271 read.
+Visible: 1 of 276 read.
+Global data: $0016D6
+Common data: $004376
+  Number of segments in file = 1, number of Jump Table entries = 1
+Linking segment:          file (JT) seg:   1 size:     8720
+   0 Errors detected.
+
+The output is an executable program file.
+
+Elapsed time: 1339.511 seconds.

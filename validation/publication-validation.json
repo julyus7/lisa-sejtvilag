@@ -1,0 +1,10 @@
+{
+  "source_regeneration_exact": true,
+  "source_matches_compiled_release": true,
+  "dc42_matches_tested_local_release": true,
+  "backup_tool_payloads_identical": true,
+  "backup_container_metadata_differs": true,
+  "image_sha256": "b09346adf146315631dadeefc5bb18031d8e9b64ec526564ed3b3e86c8cb342d",
+  "native_tests_rerun_for_publication": false,
+  "private_vm_and_os_images_excluded": true
+}

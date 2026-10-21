@@ -1,0 +1,16 @@
+{
+  "compiler": "Lisa Pascal 3.26",
+  "code_generator": "MC68000 Code Generator 3.16",
+  "native_code_bytes": 7820,
+  "linker": "Lisa Linker 3.0",
+  "linker_errors": 0,
+  "linked_executable_bytes": 10752,
+  "source_sha256": "1232f6bd47ff1ed9521ceebde3076cbb025748fe260ad5fc73b5da6568bea0a3",
+  "evidence": [
+    "codegen-final.png",
+    "linker-finish-status.png",
+    "linker-listing-native.bin"
+  ],
+  "listing_zero_errors_verified": true,
+  "listing_executable_type_verified": true
+}

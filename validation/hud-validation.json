@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "method": "manual visual comparison of normal X11 screenshots with read-only native telemetry after presentation settled",
+  "generation0_live": 398,
+  "generation1_live": 383,
+  "evidence": [
+    "hud-random-check.png",
+    "hud-step-check.png"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "real_x11_keyboard_checks": 2,
+  "random_screen_checks": 2,
+  "test_emulator_sha256": "2788f495cd3e8166ab1b8af0a1201a61b6a65d843097df651c710f03b5748aec",
+  "frames": 81,
+  "capture_hz": 10,
+  "requested_seconds": 8,
+  "generations_advanced": 1,
+  "static_patches_identical": true,
+  "distinct_animation_regions": 2,
+  "per_capture_debugger_invalidation": false,
+  "lisaem_forcerefresh_preference": 1,
+  "lisaem_refresh_hz": 4,
+  "scope": "Sampled X11 frames during native automatic simulation; title, controls and untouched grid patch stay identical. Not a physical display measurement."
+}
